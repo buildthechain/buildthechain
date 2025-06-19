@@ -35,16 +35,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildthechain&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=buildthechain&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-- 🌐 Portfolio: [yourdomain.com]([https://yourdomain.com](https://github.com/buildthechain))
+- 🌐 Portfolio: [buildthechain.com]([https://yourdomain.com](https://github.com/buildthechain))
 
 ---
 
